@@ -19,7 +19,7 @@
 ## X-Curse-Repository-ID: wow/rating-buster/mainline
 
 #@no-lib-strip@
-# embeds.xml
+embeds.xml
 #@end-no-lib-strip@
 
 locales\locales.xml
